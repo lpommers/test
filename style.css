@@ -5,7 +5,9 @@ h1 {
 	color:red;
 	font-weight:bold;
 	font-size:5em;
+	background-color: blue
 }
 h2{
 	font-size: 2em;
+	width: 50%;
 }
